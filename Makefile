@@ -4,11 +4,12 @@
 
 DOC=workbook
 XMLMAIN=main.xml
+OUTDIR=output
 
 XMLFILE=tmp/second.xml
-PDFFILE=$(DOC).pdf
+PDFFILE=$(OUTDIR)/$(DOC).pdf
 FOPFILE=tmp/$(DOC).fo
-HTMLFILE=$(DOC).html
+HTMLFILE=$(OUTDIR)/$(DOC).html
 
 FOXSL=/usr/share/xml/docbook/stylesheet/docbook-xsl-ns/fo/docbook.xsl
 HTMLXSL=/usr/share/xml/docbook/stylesheet/docbook-xsl-ns/xhtml-1_1/docbook.xsl
