@@ -3,21 +3,14 @@
 	
 <info>
    <title>
-La Biblia de Informática
+   Acceso SSH Dario
    </title>
    <author>
 		<personname>
-			<firstname>David</firstname>
-			<surname>Vargas Ruiz</surname>
+			<firstname>Dario</firstname>
+			<surname>Marrero Glez</surname>
 		</personname>
    </author>
-   
-	<legalnotice>
-          <para>Este documento está construcción. Tiene fallos que se van mejorando,
-          y puede no estar actualizado. Si tienes alguna propuesta al respecto me
-          la puedes hacer llegar, y si quieres colaborar en su desarrollo, estás
-          invitado a participar.</para>
-    </legalnotice>
 	<pubdate><?dbtimestamp?></pubdate>
 </info>
 

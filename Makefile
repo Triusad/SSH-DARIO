@@ -6,9 +6,9 @@ DOC=workbook
 XMLMAIN=main.xml
 
 XMLFILE=tmp/second.xml
-PDFFILE=output/$(DOC).pdf
+PDFFILE=$(DOC).pdf
 FOPFILE=tmp/$(DOC).fo
-HTMLFILE=output/$(DOC).html
+HTMLFILE=$(DOC).html
 
 FOXSL=/usr/share/xml/docbook/stylesheet/docbook-xsl-ns/fo/docbook.xsl
 HTMLXSL=/usr/share/xml/docbook/stylesheet/docbook-xsl-ns/xhtml-1_1/docbook.xsl
