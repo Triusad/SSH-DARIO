@@ -21,14 +21,12 @@ Cambiamos el nombre de la máquina a “SSH-SERVER-DMG”(Darío Marrero Glez) y
 	
 		<title>Paso 1</title>
 		<para>En primer lugar instalamos "freesshd" y lo configuramos. Seguidamente creamos 4 usuarios en freesshd "remoteuser1, remoteuser2, remoteuser3, remoteuser4" todos con clave "12345" y todos los permisos.</para>
-				<para>
 		<mediaobject>
 			<imageobject>
 				<imagedata align="center" scale="60" fileref="../img/Win2k8-config.png" format="PNG"/>
 			</imageobject>
 		</mediaobject>
-		</para>
-		
+
     </section>
     
     		
